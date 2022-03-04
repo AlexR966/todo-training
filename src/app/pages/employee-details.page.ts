@@ -3,9 +3,8 @@ import {
     ViewEncapsulation,
     ChangeDetectionStrategy,
     OnInit,
-    Component,
   } from '@angular/core';
-  import { ActivatedRoute} from 'angular/router';
+  import { ActivatedRoute} from '@angular/router';
   
   @Component({
     selector: 'lib-employee-details-page',
